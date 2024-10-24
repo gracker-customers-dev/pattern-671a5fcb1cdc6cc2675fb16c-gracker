@@ -1,0 +1,67 @@
+projectName: >-
+  <cybersecurity_tool> Integration Guide: Boost SEO Performance for
+  <target_audience>
+jsonFilePath: ./input.json
+baseUrl: sun.com
+portalHeading: Unlock AI-Driven SEO Solutions
+portalDescription: >-
+  World's first AI-driven growth engine for cybersecurity B2B SaaS. Engage
+  prospects, demonstrate expertise, and fuel expansion through customized,
+  data-backed content strategies.
+portalTitle: 'GrackerAI: Elevate Your Cybersecurity Content Strategy'
+searchPlaceholder: Search for SEO solutions and insights...
+useAlphabetsCategory: true
+homeLink: sun.com
+logoLink: /
+ctaText: Get started — it's free
+aboutLink: /about/
+productsLink: /solutions/
+logoImgUrl: https://sun.com/_astro/logo-white.DuNP12gY_Z22gpAz.svg
+ctaLink: https://portal.gracker.ai/
+copyrightText: © Copyright 2024, Gracker. Made with ❤️ in San Francisco
+faviconUrl: /favicon.ico
+googleTagManagerId: GTM-MB8NQN6
+pagesTitle:
+  prefix: ''
+  suffix: ''
+categoryPagesTitle:
+  prefix: ''
+  suffix: ''
+templateRoot:
+  - ./templates
+  - ./templates
+homeTemplatePath: ./templates/homePageTemplate.ejs
+categoryTemplatePath: ./templates/categoryTemplate.ejs
+pageTemplatePath: ./templates/pagesTemplate.ejs
+outputDir: ./output
+socialLinks:
+  - platform: LinkedIn
+    url: https://www.linkedin.com/company/gracker-ai/
+  - platform: Twitter
+    url: https://x.com/grackerAI
+  - platform: Instagram
+    url: https://www.instagram.com/grackerai/
+theme:
+  primaryColor: '#1a1a1a'
+  secondaryColor: '#f5f5f5'
+  backgroundColor: '#ffffff'
+  textColor: '#333333'
+  accentColor: '#ff0000'
+fonts:
+  - family: Bricolage Grotesque
+    weights:
+      - 400
+      - 500
+      - 600
+  - family: Poppins
+    weights:
+      - 400
+      - 500
+      - 600
+data:
+  - categoryName: default
+    categorySlug: /
+    pages:
+      - pageTitle: Off-Page SEO
+      - pageTitle: Compliance
+      - pageTitle: Customer Engagement
